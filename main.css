@@ -9,6 +9,7 @@ body {
     }
     
     h2 {
+        background-color: skyblue;
     font-style: italic;
     border-bottom: 3px solid #000000; 
     }
